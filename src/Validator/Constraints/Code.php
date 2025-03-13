@@ -17,7 +17,7 @@ class Code extends Regex
     /**
      * @var string
      */
-    public $message = 'Code format is not valid';
+    public string $message = 'Code format is not valid';
 
     /**
      * @param mixed $options
